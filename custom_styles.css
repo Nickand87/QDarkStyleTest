@@ -1,0 +1,11 @@
+custom_styles = """
+                       QMainWindow {
+                           background-color: #333333;
+                       }
+
+                       QPushButton {
+                           color: yellow;
+                           background-color: green;
+                           border: 2px solid red;
+                       }
+                       """
